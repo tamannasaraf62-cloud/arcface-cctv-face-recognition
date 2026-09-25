@@ -1,0 +1,38 @@
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment files
+.env
+.venv/
+venv/
+env/
+
+# Kaggle credentials
+kaggle.json
+
+# Datasets
+data/
+datasets/
+*.zip
+
+# Model checkpoints and exported weights
+checkpoints/
+*.pt
+*.pth
+*.onnx
+*.engine
+
+# Generated outputs
+outputs/
+artifacts/
+runs/
+logs/
+
+# Local system files
+.DS_Store
+Thumbs.db
